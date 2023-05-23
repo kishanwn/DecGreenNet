@@ -1,4 +1,4 @@
-# A Novel Operator Network using Low-Rank Green Function Approximations
+# A Novel Operator Network using Low-Rank Green Function Approximations 
 
 A novel approach to learn the Green function with low-rank decomposition is proposed with teh DecGreenNet models. 
 
