@@ -3,7 +3,7 @@
 """
 Created on Wed Feb  1 15:25:30 2023
 
-@author: kishan
+
 """
 
 import torch.nn as nn
