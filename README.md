@@ -14,16 +14,24 @@ Wimalawarne, K., Suzuki, T. & Langer, S. Learning Green’s function efficiently
 Bibtex
 
 @article{10.1007/s10994-025-06845-7,
+
 author = {Wimalawarne, Kishan and Suzuki, Taiji and Langer, Sophie},
+
 title = {Learning Green’s function efficiently using low-rank approximations},
+
 year = {2025},
+
 issue_date = {Sep 2025},
+
 publisher = {Kluwer Academic Publishers},
+
 address = {USA},
+
 volume = {114},
+
 number = {10},
+
 issn = {0885-6125},
-url = {https://doi.org/10.1007/s10994-025-06845-7},
 doi = {10.1007/s10994-025-06845-7},
 journal = {Mach. Learn.},
 month = aug,
