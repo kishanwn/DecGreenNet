@@ -21,7 +21,11 @@ $$
 - Python
 - Pytorch
 
+### Code execution
 
+```bash
+python train_poi2D_multi_nl_plot.py --num_quad 100
+```
 
 ### Publication
 
