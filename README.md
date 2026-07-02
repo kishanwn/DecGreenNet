@@ -9,6 +9,8 @@ $$
 u_{\theta_1}(x;g) =  \sum_{x' \in S_{\Omega}} G_{\theta_1}(x,x')g(x') 
 $$
 
+DecGreenNet
+
 $$
 u_{\gamma_1,\gamma_2}(x;g) =   \frac{|\Omega|}{|S_{\Omega}|} \sum_{y \in  S_{\Omega}}  \sum_{i=1}^{R} F_{\gamma_1}(x)_iH_{\gamma_2}(y)_i g(y)   
  = \frac{|\Omega|}{|S_{\Omega}|} F_{\gamma_1}(x)^{\top} \left[ \sum_{y \in S_{\Omega}} H_{\gamma_2}(y) g(y)\right]
