@@ -3,7 +3,7 @@
 A novel approach to learn the Green's function with low-rank decomposition is proposed with the DecGreenNet models. 
 
 
-
+Parameterizing the Green's function $u_{\theta_1}(x;g) =  \sum_{x' \in S_{\Omega}} G_{\theta_1}(x,x')g(x') $
 
 ### Requirements
 - Python
