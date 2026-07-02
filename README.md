@@ -3,7 +3,7 @@
 A novel approach to learn the Green's function with low-rank decomposition is proposed with the DecGreenNet models. 
 
 
-![alt text](images/exact_poi_homog.eps)
+
 
 ### Requirements
 - Python
